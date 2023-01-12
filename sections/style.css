@@ -38,16 +38,16 @@ h2 {
   background-color: #f1f1f1;
   color: #000080;
   text-align: center;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 15%;
+  margin-right: 15%;
   padding-top: 20px;
 }
 
 h3 {
   background-color: #f1f1f1;
   color: #000080;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-top: 60px;
+  text-align: center;
 }
 
 .titolo {
@@ -55,15 +55,15 @@ h3 {
   color: #000080;
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .testo {
   background-color: #f1f1f1;
   color: #000080;
- margin-left: 30%;
- margin-right: 30%;
+ margin-left: 15%;
+ margin-right: 15%;
  margin-bottom: 7%;
 }
   
